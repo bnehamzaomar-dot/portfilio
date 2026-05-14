@@ -47,8 +47,9 @@
 </header>
 
 <nav>
-    <a href="">Accueil</a>
-    <a href="">À propos</a>
+
+    <a href="Atelier1">atellier 1</a>
+    <a href="Atelier2">Atelier 2</a>
     <a href="">Services</a>
     <a href="">Contact</a>
 </nav>
