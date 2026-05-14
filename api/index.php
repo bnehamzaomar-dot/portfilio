@@ -610,6 +610,28 @@ footer{
     </div>
 
   </div>
+   <div class="card reveal">
+      <div class="card-body">
+
+        <span class="card-tag">PHP</span>
+
+        <h3>Atelier 8</h3>
+
+        <p>
+          Développement d’un mini projet PHP
+          avec intégration GitHub.
+        </p>
+
+        <a href="" class="btn" target="_blank">
+          PDF
+        </a>
+
+        <a href="https://github.com/bnehamzaomar-dot/rrr.git" class="btn" target="_blank">
+          GitHub
+        </a>
+
+      </div>
+    </div>
 
 </section>
 
