@@ -47,9 +47,9 @@
 </header>
 
 <nav>
-
-    <a href="index.php">atellier 1</a>
-    <a href="">Atelier 2</a>
+    
+    <a href="">Accueil</a>
+    <a href="">À propos</a>
     <a href="">Services</a>
     <a href="">Contact</a>
 </nav>
