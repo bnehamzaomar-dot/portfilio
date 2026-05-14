@@ -560,7 +560,7 @@ footer{
           Voir PDF
         </a>
 
-        <a href="https://github.com/hdvf4336-sketch/AT4.git" class="btn" target="_blank">
+        <a href="https://github.com/bnehamzaomar-dot/omar_15.git" class="btn" target="_blank">
           GitHub
         </a>
 
